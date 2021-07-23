@@ -27,16 +27,17 @@
 </p>
 
 
-## The sharing of the PPT and Project Report costs ₹1000 ($14)
-If interested :email: ankushsinghgandhi@gmail.com
+# Destini 🤔
+
+## Our Goal
+
+In this challenge, we will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
 ## :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 #
 
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
